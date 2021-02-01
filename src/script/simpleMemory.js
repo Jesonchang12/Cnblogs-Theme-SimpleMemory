@@ -385,9 +385,9 @@ function init() {
         '<li><a href="https://i-beta.cnblogs.com/posts/edit" target="_blank"><i class="iconfont icon-qianzishenhe"></i>新随笔</a></li>' +
         '<li><a href="javascript:void(0)" onclick="$(\'#blog_nav_rss\').trigger(\'click\');" data-rss="https://www.cnblogs.com/'+user+'/rss/"><i class="iconfont icon-qinmifu"></i>订阅</a></li>' +
         '<li><a href="https://i.cnblogs.com/" target="_blank"><i class="iconfont icon-setup_fill"></i>管理</a></li>' +
-        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo_QQ"></i>QQ:904563004</a></li>' +
-        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo-wechat"></i>WX:tobestrongerrrr</a></li>' +
-        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo_weibo_circle"></i>微博:JFHS8</a></li>';
+        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo_QQ"></i>QQ: 904563004</a></li>' +
+        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo-wechat"></i>WX: tobestrongerrrr</a></li>' +
+        '<li><a href="https://www.cnblogs.com" target="_blank"><i class="iconfont icon-logo_weibo_circle"></i>微博: JFHS8</a></li>';
 
     var menuNavList = window.cnblogsConfig.menuNavList;
     if (menuNavList.length > 0) {
